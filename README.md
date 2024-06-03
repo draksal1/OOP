@@ -2,6 +2,10 @@
 
 Here are my solutions to the tasks from OOP course.
 
+Author: [draksal1](https://github.com/draksal1)
+
+Reviewer: 	Dmitry Shishkin
+
 The tasks consist of several blocks (ordered by level of difficulty):
 
 <h3>1.  Initiation</h3>
