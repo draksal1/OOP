@@ -4,25 +4,33 @@ Here are my solutions to the tasks from OOP course.
 
 The tasks consist of several blocks (ordered by level of difficulty):
 
-1.  Initiation
--Binary Tree
-3. OOP in C
+<h3>1.  Initiation</h3>
+ - Binary Tree
+
+<h3>3. OOP in C</h3>
 -Chess Figures
-5. Simple class
+<h3>5. Simple class</h3>
 -Matrix
-6. Data structures
+
+<h3>6. Data structures</h3>
 -Freq Dictionary
-7. One class
+
+<h3>7. One class</h3>
 -Gystogramm
-8. Interaction of classes
+
+<h3>8. Interaction of classes</h3>
 -MapProxy
-9. Templates
+
+<h3>9. Templates</h3>
 -Quicksort
 -Filteriterator
-10. Design patterns
+
+<h3>11. Design patterns</h3>
 -BMP Resolution (Proxy)
-11. Black boxes
+
+<h3>11. Black boxes</h3>
 -Object Pull
-12. Multithreading
+
+<h3>12. Multithreading</h3>
 -Parallel quicksort
 
