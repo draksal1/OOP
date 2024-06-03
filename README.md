@@ -23,6 +23,8 @@ The tasks consist of several blocks (ordered by level of difficulty):
 
 <h3>9. Templates</h3>
 -Quicksort
+
+
 -Filteriterator
 
 <h3>11. Design patterns</h3>
