@@ -34,7 +34,7 @@ The tasks consist of several blocks (ordered by level of difficulty):
 <h3>8. Design patterns</h3>
 -BMP Resolution (Proxy)
 
-<h3>98. Black boxes</h3>
+<h3>9. Black boxes</h3>
 -Object Pull
 
 <h3>10. Multithreading</h3>
