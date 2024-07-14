@@ -13,30 +13,30 @@ The tasks consist of several blocks (ordered by level of difficulty):
 
 <h3>2. OOP in C</h3>
 -Chess Figures
-<h3>5. Simple class</h3>
+<h3>3. Simple class</h3>
 -Matrix
 
-<h3>3. Data structures</h3>
+<h3>4. Data structures</h3>
 -Freq Dictionary
 
-<h3>4. One class</h3>
+<h3>5. One class</h3>
 -Gystogramm
 
-<h3>5. Interaction of classes</h3>
+<h3>6. Interaction of classes</h3>
 -MapProxy
 
-<h3>6. Templates</h3>
+<h3>7. Templates</h3>
 -Quicksort
 
 
 -Filteriterator
 
-<h3>7. Design patterns</h3>
+<h3>8. Design patterns</h3>
 -BMP Resolution (Proxy)
 
-<h3>8. Black boxes</h3>
+<h3>98. Black boxes</h3>
 -Object Pull
 
-<h3>9. Multithreading</h3>
+<h3>10. Multithreading</h3>
 -Parallel quicksort
 
